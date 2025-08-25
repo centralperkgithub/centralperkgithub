@@ -49,6 +49,7 @@
       <ul>
         <li>Developed a scalable pipeline using <b>PySpark + Azure Synapse + Power BI</b>.</li>
         <li>Enabled <b>real-time analytics</b> with Direct Query dashboards.</li>
+        <li><b>August 2025 - Ongoing </b> </li>
       </ul>
     </td>
   </tr>
@@ -64,6 +65,7 @@
       <ul>
         <li>Analyzed <b>$1.2M+ sales data</b> using SQL, Python, Power BI & Excel.</li>
         <li>Identified key KPIs (65% sales from low-fat products) to inform business strategy.</li>
+        <li><b> June 2025 – July  2025 </b> </li>
       </ul>
     </td>
   </tr>
@@ -79,6 +81,7 @@
       <ul>
         <li>Built a <b>Generative AI web app</b> for resume-job matching.</li>
         <li>Improved candidate screening efficiency by <b>~40%</b>.</li>
+         <li><b> Jan 2025 </b> </li>
       </ul>
     </td>
   </tr>
@@ -94,10 +97,28 @@
       <ul>
         <li>Developed a <b>Logistic Regression model</b> with 83% accuracy.</li>
         <li>Analyzed passenger data to predict survival outcomes.</li>
+        <li><b> May 2023– June 2023  </b> </li>
       </ul>
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="120">
+      <img src= "https://github.com/centralperkgithub/centralperkgithub/blob/d76ec53164391ffc2b0825002d33bab763913708/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_7sryb1fopo1558cwmrrf.webp" width="120" alt="Streamlit Logo"/>
+    </td>
+    <td>
+      <b>Daily Dharma – Obesity Prediction Web App</b>  
+      <ul>
+        <li>Built a <b>Decision Tree ML model</b> to predict obesity levels from BMI & lifestyle data.</li>
+        <li>Deployed with <b>Streamlit</b> for real-time predictions & health suggestions.</li>
+        <li><b>  Oct  2024 - Nov 2024   </b> </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
