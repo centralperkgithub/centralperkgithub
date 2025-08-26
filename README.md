@@ -34,6 +34,35 @@
 </div>
 
 ---
+---
+
+## 🛠️ Ongoing Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Aim</th>
+    <th>Tech Stack</th>
+    <th>Timeline</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>Azure-Based Sales Data Engineering Pipeline</b></td>
+    <td>
+      <ul>
+        <li>Analyze 8,523 sales records to identify key business performance drivers.</li>
+        <li>Transform data across Bronze, Silver, and Gold layers leveraging <b>PySpark</b> in Azure Databricks.</li>
+        <li>Store processed data in <b>Azure Synapse Analytics</b> and develop real-time Power BI dashboards with Direct Query.</li>
+      </ul>
+    </td>
+    <td>
+      <b>PySpark</b>, <b>Azure Databricks</b>, <b>Azure Synapse</b>, <b>Power BI</b>
+    </td>
+    <td>Started August 2025</td>
+    <td>Learning Phase – <b>40% Completed</b></td>
+  </tr>
+</table>
+
 
 ---
 
