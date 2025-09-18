@@ -5,11 +5,6 @@
   🚀 Data Science & Analytics Enthusiast | Turning Data into Insights
 </h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=centralperkgithub&show_icons=true&theme=radical&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=centralperkgithub&layout=compact&langs_count=5&theme=radical&hide=C,HTML,C++,Tcl" height="160" alt="Most Used Languages" />
-</div>
-
 ---
 
 ### 🛠️ Major Skills
